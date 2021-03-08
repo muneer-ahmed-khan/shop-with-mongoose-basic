@@ -10,7 +10,7 @@ export default {
 
 <style scoped>
 h1 {
-  margin: 40px 0 0;
+  margin: 20px 0 0;
 }
 
 </style>
