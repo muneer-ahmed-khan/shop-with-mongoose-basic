@@ -9,7 +9,7 @@ export default {
 
 
 <style scoped>
-h3 {
+h1 {
   margin: 40px 0 0;
 }
 
